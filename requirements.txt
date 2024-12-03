@@ -1,5 +1,5 @@
 streamlit
 tensorflow
 pillow
-numpy==1.23.5
+numpy
 opencv-python-headless
